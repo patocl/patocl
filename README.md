@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi, I'm patocl
 
-<!--
-**patocl/patocl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software architect with more than 22 years of experience in the IT sector and passion for the design, development, and deployment of Solutions using Continuous Integration (CI) and Continuous Deployment (CD)
 
-Here are some ideas to get you started:
+With great ease to fit and learn new technologies. In my last 5 years, I have played the roles of
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Infrastructure Architect at Microsoft Azure
+* DevOps
+* Technical Architect at Sitecore
+* Solution Architect in Microsoft .NET
+* RPA Technical Architect
+
+I love the challenges and challenges that are proposed to me on my projects such as security, performance, reliability, and maintenance of technological solutions.
+
+In addition, to support and evangelize new technologies to the members of my teams, directing and coordinating their activities in the development field.
+
+## Interests
+
+* Continue working as Azure Architect and Azure DevOps
+* Development of solutions in .NET and cloud with agile methodologies
+
+## Hobbies
+
+* Study new technologies
+  * RUST
+  * Artificial intelligence
+* Travel around the world
+
+## Find me around the web 🌎
+
+* My profile on [Linkedin](https://www.linkedin.com/in/patocl/?locale=en_US) 💼
+* Collaborating on [GitHub](https://github.com/patocl) 🍄
+
+***
+
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=patocl)
