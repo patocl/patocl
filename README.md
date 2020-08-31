@@ -4,10 +4,10 @@ Software architect with more than 22 years of experience in the IT sector and pa
 
 With great ease to fit and learn new technologies. In my last 5 years, I have played the roles of
 
-* Infrastructure Architect at Microsoft Azure
+* Microsoft Azure Technical Architect
 * DevOps
-* Technical Architect at Sitecore
-* Solution Architect in Microsoft .NET
+* Sitecore Technical Architect
+* Microsoft .NET Solution Architect
 * RPA Technical Architect
 
 I love the challenges and challenges that are proposed to me on my projects such as security, performance, reliability, and maintenance of technological solutions.
@@ -22,8 +22,9 @@ In addition, to support and evangelize new technologies to the members of my tea
 ## Hobbies
 
 * Study new technologies
-  * RUST
-  * Artificial intelligence
+  * Rust
+  * CCSP - Cloud Security Certification
+  * CSSLP - Software Security Development Certification
 * Travel around the world
 
 ## Find me around the web 🌎
