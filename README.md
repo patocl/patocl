@@ -29,9 +29,9 @@ In addition, to support and evangelize new technologies to the members of my tea
 
 ## Find me around the web 🌎
 
-* My profile on [Linkedin](https://www.linkedin.com/in/patocl/?locale=en_US) 💼
-* Collaborating on [GitHub](https://github.com/patocl) 🍄
-
+* My profile on [Linkedin](https://www.linkedin.com/in/patocl/?locale=en_US)
+* Collaborating on [GitHub](https://github.com/patocl)
+* Learning on [Pluralsight](https://app.pluralsight.com/profile/patocl) 
 ***
 
 ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=patocl)
