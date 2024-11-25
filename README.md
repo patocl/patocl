@@ -19,7 +19,7 @@ Currently, in addition to my role as a Solution Designer, I dedicate my time to 
 
 * LinkedIn
   * [English](https://www.linkedin.com/in/patocl/?locale=en_US)
-  * [Spanish]([https://www.linkedin.com/in/patocl)
+  * [Spanish](https://www.linkedin.com/in/patocl)
 * Resume
    * [English](https://www.resumonk.com/patoescl-en)
    * [Spanish](https://www.resumonk.com/patoescl-es)
