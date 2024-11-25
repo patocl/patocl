@@ -1,37 +1,28 @@
 # Hi, I'm patocl
 
-Software architect with more than 22 years of experience in the IT sector and passion for the design, development, and deployment of Solutions using Continuous Integration (CI) and Continuous Deployment (CD)
+## Professional Summary
 
-With great ease to fit and learn new technologies. In my last 5 years, I have played the roles of
+I am a Software Architect with many years of experience in the IT sector, specializing in solution design, software development, and systems architecture in complex environments. Throughout my career, I have held key roles such as:
 
-* Microsoft Azure Technical Architect
-* DevOps
-* Sitecore Technical Architect
-* Microsoft .NET Solution Architect
-* RPA Technical Architect
+- Solution Designer
+- .NET Solutions Architect
+- Microsoft Azure Technical Architect
+- Sitecore Technical Architect
+- RPA Technical Architect
+- Senior Software Developer
 
-I love the challenges and challenges that are proposed to me on my projects such as security, performance, reliability, and maintenance of technological solutions.
+My experience includes creating Microservices architectures, designing and developing APIs, integrating message queues, and implementing scalable, secure, and high-performance solutions. I am skilled in using agile methodologies and optimizing CI/CD processes to improve efficiency and reliability.
 
-In addition, to support and evangelize new technologies to the members of my teams, directing and coordinating their activities in the development field.
-
-## Interests
-
-* Continue working as Azure Architect and Azure DevOps
-* Development of solutions in .NET and cloud with agile methodologies
-
-## Hobbies
-
-* Study new technologies
-  * Rust
-  * CCSP - Cloud Security Certification
-  * CSSLP - Software Security Development Certification
-* Travel around the world
+Currently, in addition to my role as a Solution Designer, I dedicate my time to exploring Artificial Intelligence and emerging technologies such as Python, Rust, generative AI, and IoT in my free time.
 
 ## Find me around the web 🌎
 
-* My profile on [Linkedin](https://www.linkedin.com/in/patocl/?locale=en_US)
-* Collaborating on [GitHub](https://github.com/patocl)
-* Learning on [Pluralsight](https://app.pluralsight.com/profile/patocl) 
-***
+* LinkedIn
+  * [English](https://www.linkedin.com/in/patocl/?locale=en_US)
+  * [Spanish]([https://www.linkedin.com/in/patocl)
+* Resume
+   * [English](https://www.resumonk.com/patoescl-en)
+   * [Spanish](https://www.resumonk.com/patoescl-es)
+* Pluralsight [Profile](https://app.pluralsight.com/profile/patocl)
 
 ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=patocl)
