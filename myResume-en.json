@@ -1,0 +1,117 @@
+{
+    "summary": {
+      "title": "Summary",
+      "content": "I am a Software Architect with extensive experience in solution design, software development, and systems architecture in complex environments. My roles have included Solution Designer, .NET Solutions Architect, Microsoft Azure Technical Architect, Sitecore Technical Architect, RPA Technical Architect, and Senior Software Developer. I specialize in creating Microservices architectures, designing and developing APIs, integrating message queues, and implementing scalable, secure, high-performance solutions using agile methodologies and optimizing CI/CD processes."
+    },
+    "skills_and_expertise": {
+      "integrations": [
+        "External databases: DB2, SQL Server, Oracle, MySQL, Progress",
+        "Salesforce",
+        "Feefo, SendGrid",
+        "Elasticsearch, Redis"
+      ],
+      "cloud_and_infrastructure": {
+        "microsoft_azure": "Design, implementation, and management of Azure solutions including Azure Governance, IaaS deployment with Azure Resource Manager, Ansible, and C#.",
+        "paas_and_serverless_solutions": "Architecture and deployment of Serverless solutions using Azure Functions.",
+        "messaging": "Azure Service Bus, Azure Event Grid, Azure Event Hubs, Azure Storage Queues, Azure Logic Apps, Azure Functions, Azure Durable Functions",
+        "iot": "Azure IoT Hub (for messaging related to IoT devices)",
+        "docker_and_containerization": "Management of containers and microservices with Docker.",
+        "aws_services": "Experience with S3, Route 53, EC2, Storage, VMs"
+      },
+      "software_development_and_architecture": [
+        ".NET Framework & .NET Core: Design and development of solutions with C#, using architectural patterns such as DDD, SOLID, Dependency Injection.",
+        "Microservices Architecture: Design of scalable and secure Microservices architectures, focused on performance and maintenance.",
+        "Web API & RESTful APIs: Development and definition of RESTful APIs, optimization of Web APIs using ASP.NET Core.",
+        "ORM & Data Access: Use of Entity Framework, Dapper, and mappers like Glass for data access and management.",
+        "Documentation: Creation of detailed technical and high-level documentation for software architectures, including diagrams and tailored solution proposals.",
+        "Project Optimization: Proposals for optimization and improvements in performance, scalability, and maintainability throughout the project lifecycle."
+      ],
+      "devops_and_ci_cd": [
+        "Azure DevOps & TeamCity: Implementation and management of CI/CD pipelines with Azure DevOps, TeamCity, and Octopus Deploy.",
+        "Version Control: Use of GitHub, VSTS, TFS, SVN for version control and team collaboration."
+      ],
+      "rpa_and_automation": [
+        "RPA Solutions: Design and development of RPA solutions using UIPath, BluePrism, and RemoteAnywhere.",
+        "Business Process Automation: Integration of RPA in business processes to improve efficiency and reduce costs."
+      ],
+      "databases_and_data_management": [
+        "Relational Databases: Management of databases such as SQL Server, Oracle, Azure SQL, DB2, Postgres, and MySQL.",
+        "NoSQL Databases: Management of NoSQL databases like MongoDB and Cosmos DB."
+      ],
+      "frontend_technologies": [
+        "Web Development: HTML5, CSS3, JavaScript, Vue.js, Angular, jQuery, Bootstrap, Polymer.",
+        "Modern Tooling: Use of Gulp, NPM, Node.js for dependency management and automation."
+      ],
+      "team_leadership_and_mentoring": [
+        "Mentoring & Coaching: Ability to guide and train teams through mentoring and coaching, sharing best practices and technical knowledge.",
+        "Technical Leadership: Leading development teams, fostering collaboration, and ensuring adherence to development best practices and agile methodologies."
+      ]
+    },
+    "experience": [
+      {
+        "company": "XLIT - Euroclear Client",
+        "role": "Solution Designer",
+        "type": "Freelance",
+        "dates": "November 2022 - Present",
+        "key_responsibilities_and_achievements": [
+          "Migration and Modernization: Led the migration of a legacy solution, modernizing its architecture to improve scalability, performance, and maintainability.",
+          "Technical Documentation Design: Designed and developed high-level (HLTD) and detailed technical design (DTDs) documents to recreate and optimize environments for complex projects.",
+          "Mentorship and Team Development: Mentored and worked closely with developers, promoting the implementation of unit tests and the adoption of best agile development practices.",
+          "Cross-functional Team Coordination: Coordinated cross-functional teams, including Azure DevOps, development, infrastructure, and testing, to ensure smooth integration and project success.",
+          "Integration: IBM DB2, IBM MQ Messaging, Splunk, SNow"
+        ]
+      },
+      {
+        "company": "XLIT - NMBS-SNCB Client",
+        "role": "Solution Designer",
+        "type": "Freelance",
+        "dates": "May 2021 - August 2022",
+        "key_responsibilities_and_achievements": [
+          "Documentation and Design: Authored detailed technical documentation, including low-level designs (DTDs), to guide developers in implementing and optimizing solutions for complex projects.",
+          "Microservices Architecture: Designed technical architectures for Microservices, leveraging technologies such as Azure Kubernetes Service (AKS), Azure Web Apps, and tools like Azure DevOps and Jira within an agile framework, particularly Scrum.",
+          "Cross-functional Collaboration: Actively collaborated with Enterprise Architects, Technical Architects, Functional Analysts, and development teams specializing in Java and .NET, ensuring technical and functional alignment for project success.",
+          "Agile Methodology: Contributed to the definition and execution of agile workflows, ensuring that the project objectives were met within deadlines and quality standards.",
+          "Integration: IBM DB2, IBM MQ Messaging, Oracle Database, SQL Server"
+        ]
+      }
+    ],
+    "languages": {
+      "spanish": "Native or bilingual proficiency",
+      "english": "Professional working proficiency"
+    },
+    "education": [
+      {
+        "institution": "Universidad Austral de Chile",
+        "degree": "Informatics Engineering",
+        "dates": "1993 - 1995",
+        "note": "Not finished"
+      },
+      {
+        "institution": "INSUCO, Talca, Chile",
+        "degree": "General Computer Science and Programming",
+        "dates": "1987 - 1991",
+        "key_project": "During a three-month professional internship at Olivetti Talca, Chile, I developed an accounting system in Clipper, using GW Basic, dBase III, Foxbase, and Clipper. This system not only achieved business objectives but also served as an educational tool, with its source code being used to teach accounting to new students at INSUCO."
+      }
+    ],
+    "certifications": [
+      {
+        "name": "70-316 Developing and Implementing Windows-Based Applications with Microsoft Visual C# .NET and Microsoft Visual Studio .NET",
+        "organization": "Microsoft",
+        "date": "06/18/2004",
+        "details": "[Transcripts](http://www.microsoft.com/learning/mcp/transcripts) (Transcripts ID = 670530, Pass Code = patocl2004)"
+      },
+      {
+        "name": "Certified Internet Webmaster Associate",
+        "organization": "CIW",
+        "date": "April 2002",
+        "details": "[Website](http://www.ciwcertified.com/)"
+      },
+      {
+        "name": "Sitecore Certified Professional Developer",
+        "organization": "Sitecore",
+        "date": "September 2015",
+        "details": "[Website](http://www.sitecore.com)"
+      }
+    ]
+  }
+  
