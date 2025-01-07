@@ -2,18 +2,11 @@
 
 ## Professional Summary
 
-I am a Software Architect with many years of experience in the IT sector, specializing in solution design, software development, and systems architecture in complex environments. Throughout my career, I have held key roles such as:
+I have worked in the IT many years, peforming roles like Software Architect, Solution Designer, .NET Solutions Architect, Microsoft Azure Technical Architect, Sitecore Technical Architect, RPA Technical Architect and Senior Software Developer.
 
-- Solution Designer
-- .NET Solutions Architect
-- Microsoft Azure Technical Architect
-- Sitecore Technical Architect
-- RPA Technical Architect
-- Senior Software Developer
+I have participated in creating Microservices architectures, designing and programming APIs, using business message queues, and implementing scalable, secure, and high-performance solutions..
 
-My experience includes creating Microservices architectures, designing and developing APIs, integrating message queues, and implementing scalable, secure, and high-performance solutions. I am skilled in using agile methodologies and optimizing CI/CD processes to improve efficiency and reliability.
-
-Currently, in addition to my role as a Solution Designer, I dedicate my time to exploring Artificial Intelligence and emerging technologies such as Python, Rust, generative AI, and IoT in my free time.
+I love technology, and in my free time I like to research AI using Python, and program IoT devices such as ESP32 and compatible sensors. I love watching Anime, Korean series and action and science fiction movies. And for fun I also like to play multiplayer games. My passion is traveling the world and getting to know different cultures.
 
 ## Find me around the web 🌎
 
